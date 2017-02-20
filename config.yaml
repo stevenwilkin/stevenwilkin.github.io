@@ -1,9 +1,0 @@
----
-baseURL: https://stevenwilkin.github.io
-title: Alpha Whisky Fund
-publishDir: docs
-theme: hugo-theme-bootstrap4-blog
-copyright: 2017 Alpha Whisky Fund
-params:
-  sidebar:
-    foo: bar
